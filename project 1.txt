@@ -1,4 +1,4 @@
-project 1 about hello name application with :
+project 1 hello name application with :
 -html
 -css
 -javascript
